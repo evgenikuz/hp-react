@@ -1,0 +1,19 @@
+.filterByName {
+    width:100%;
+}
+.filterName {
+    color: #818182;
+    line-height: 28px; /* 175% */
+    margin-bottom: 3px;
+}
+.input {
+    color: #ABB5BE;
+    line-height: 21px; /* 131.25% */
+    padding: 8px 17px 9px;
+    max-width: 452px;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #CED4DA;
+    background-color: #FFF;
+    height: 38px;
+}
