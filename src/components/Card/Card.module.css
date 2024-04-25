@@ -1,5 +1,5 @@
 .card {
-    height: 409px;
+    height: 551px;
     max-width: 334px;
     width: 100%;
     background-color: #FFF;
@@ -7,10 +7,10 @@
     overflow: hidden;
 }
 .photo {
-   height: 192px;
+   height: 334px;
    width: 100%;
    object-fit: cover;
-   object-position: center;
+   object-position: top;
 }
 .about {
     padding: 24px;
