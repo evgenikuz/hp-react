@@ -6,11 +6,12 @@ import { useState } from 'react'
 
 function App() {
   let [text, searchText] = useState('')
+  let [school, chosenSchool] = useState('')
   return (
     <>
-      <Header text={text} searchText={searchText}/>
+      <Header text={text} searchText={searchText} school={school} chosenSchool={chosenSchool}/>
       <hr className='line'/>
-      <Main searchText={searchText}/>
+      <Main text={text} school={school}/>
     </>
   );
 }

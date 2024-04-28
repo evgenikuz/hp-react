@@ -1,9 +1,10 @@
 import s from './FilterBySchool.module.css'
 
-export const FilterBySchool = () => {
+export const FilterBySchool = ({action}) => {
     return <div className={s.filterBySchool}>
     <p className={s.filterName}>School</p>
-    <select className={s.select}>
+    <select className={s.select} onChange={action}>
+        <option value='' disabled selected>Choose one</option>
         <option>Gryffindor</option>
         <option>Slytherin</option>
         <option>Hufflepuff</option>
