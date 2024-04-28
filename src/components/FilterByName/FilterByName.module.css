@@ -17,3 +17,9 @@
     background-color: #FFF;
     height: 38px;
 }
+
+@media (max-width: 450px) {
+    .input {
+        max-width: 320px;
+    }
+}

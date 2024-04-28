@@ -26,3 +26,8 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
+@media (max-width: 450px) {
+    .card {
+        max-width: 320px;
+    }
+}
