@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hp-react/static/css/main.5ce0430f.css",
+    "main.css": "/hp-react/static/css/main.31970225.css",
     "main.js": "/hp-react/static/js/main.3f51bb60.js",
     "static/js/453.a7205b86.chunk.js": "/hp-react/static/js/453.a7205b86.chunk.js",
     "index.html": "/hp-react/index.html",
-    "main.5ce0430f.css.map": "/hp-react/static/css/main.5ce0430f.css.map",
+    "main.31970225.css.map": "/hp-react/static/css/main.31970225.css.map",
     "main.3f51bb60.js.map": "/hp-react/static/js/main.3f51bb60.js.map",
     "453.a7205b86.chunk.js.map": "/hp-react/static/js/453.a7205b86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ce0430f.css",
+    "static/css/main.31970225.css",
     "static/js/main.3f51bb60.js"
   ]
 }
